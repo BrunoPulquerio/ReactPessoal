@@ -1,0 +1,17 @@
+[33mcommit 32f26876a8e796e0db8e67e9c06d88a54e3c536d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Bruno Almeida <brunoalmeida@pop-os.localdomain>
+Date:   Sun Apr 24 14:15:39 2022 -0300
+
+    first commit
+
+[33mcommit 93e6b02876f020a4ba7233ef9b790f1250eebd66[m
+Author: Bruno Almeida <brunoalmeida@pop-os.localdomain>
+Date:   Sun Apr 24 14:11:25 2022 -0300
+
+    first commit
+
+[33mcommit 273356988db203f79e2d14bbd0b49a77a7850153[m
+Author: Bruno Almeida <brunoalmeida@pop-os.localdomain>
+Date:   Sun Apr 24 00:12:31 2022 -0300
+
+    Initialize project using Create React App
